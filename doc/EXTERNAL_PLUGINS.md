@@ -14,7 +14,7 @@
 |Pause while far| Ready | Yes | https://github.com/leandromoreira/clappr-pause-tab-visibility |
 |RTMP           | Ready | Yes | https://github.com/clappr/clappr-rtmp-plugin |
 |Picture-in-Picture | Ready | Yes | https://github.com/tjenkinson/clappr-pip-plugin |
-|HLS+P2P        | Ready | [WIP](https://github.com/bemtv/clappr-p2phls-plugin/issues/148) | http://bem.tv |
+|Hybrid P2P & CDN| Ready | Yes | http://bem.tv |
 |Comments on seekbar| Ready | ? | https://github.com/Metrakit/clappr-comment-plugin |
 |Voice control| Ready | ? | https://github.com/flavioribeiro/clappr-speech-control-plugin |
 |Dash           | WIP | No | https://github.com/shankardevy/clappr-dash-plugin | |
